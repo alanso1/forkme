@@ -10,6 +10,7 @@ steps.
 
 * Fork this repository
     - Click the fork-button in the top right corner.
+    - This will create a copy of it just for you!
 * Clone your fork
     - Verify that you've cloned your fork and not this
       repository by running `git remote -v`; you should see
